@@ -12,8 +12,6 @@ You issue financial assets (stocks and bonds) to get the money to buy real asset
 
 -  Bond and stock valuation deals with the claim on the cash flows.  Here we'll discuss the claim on the underlying assets themselves.   
 
-
-
 * The Balance Sheet Identity
 
 The balance sheet identity: 
@@ -40,9 +38,9 @@ We call the Balance Sheet relationship an *identity* rather than an *equation* b
 
 * Interactive App
 
-The following interactive app graphically shows the balance sheet identity. The original asset value is \$100, and you can set the proportion of those assets financed by debt.  For example, if you set it equal to 0.55, then \$55 of the assets was financed via debt.  You can then set the new value of assets. 
+The following interactive app graphically shows the balance sheet identity. The original asset value is $100, and you can set the proportion of those assets financed by debt.  For example, if you set it equal to 0.55, then $55 of the assets was financed via debt.  You can then set the new value of assets. 
 
-- If the new value of assets increases above \$100 all the value goes to equityholders, and if the value of assets drops below \$100 equityholders absorb the losses (with no debt value lost). 
+- If the new value of assets increases above $100 all the value goes to equityholders, and if the value of assets drops below $100 equityholders absorb the losses (with no debt value lost). 
 
 - If the new value of assets drops below the value of debt, then debtholders incur losses, and the value of equity is negative.
 
